@@ -13,7 +13,7 @@
     --fw-reg: 300;
     --fw-bold: 900;
     
-    --clr-light: #fff;
+    --clr-light: #d1e189 ;
     --clr-dark: #303030;
     --clr-accent: #a6d608;
     
@@ -257,6 +257,10 @@ header {
 
 .section__subtitle--intro {
     display: inline-block;
+}
+
+.technologies {
+    display:inline
 }
 
 @media (min-width: 600px) {
